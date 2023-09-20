@@ -1,2 +1,3 @@
-# simple-expiring
-This is a lightweight caching component with cache persistence and restart recovery functions.
+# Lingoes
+
+A lightweight caching component based on {net. jdah. expiringmap. ExpiringMap}.
